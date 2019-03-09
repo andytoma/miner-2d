@@ -26,12 +26,16 @@ body{
 }
 #score{
   color: white;
+  position: absolute;
+  right: 200px;
+  top: 350px;
 }
 
 #map{
   width: 640px;
   margin: auto;
-  transform: scale(0.75);
+  transform: scale(0.85);
+  top: 0;
 }
 #controls{
   margin: auto;
